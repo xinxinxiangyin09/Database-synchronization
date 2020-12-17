@@ -1,0 +1,14 @@
+# 脚本信息
+__apiVersion: v1.0
+__author: chancey
+__kind: Deployment
+
+# mongoDB的配置信息
+mongoDB:
+  host: 
+  port: 
+  user: 
+  password: 
+
+# 间隔时间
+sleep: 10
