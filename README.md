@@ -20,15 +20,15 @@
 
 ## 三、部署环境
 
-1. 安装Python解释器以及virtualenvwrapper
+1. 安装Python解释器以及virtualenvwrapper<br>
 	[安装python解释器和配置虚拟环境](https://www.cnblogs.com/chancey/p/9848867.html)
 
-2. 安装mongoDB以及配置
+2. 安装mongoDB以及配置<br>
 	[安装mongoDB服务器](https://www.cnblogs.com/chancey/p/9848893.html)
 	
-3. 安装python的依赖包
+3. 安装python的依赖包<br>
 	`pip install -r requirements.txt -i https://pypi.douban.com/simple`
-
+<br>
 至此，所有的环境安装完毕，可以初始化项目
 
 ## 四、 初始化项目
