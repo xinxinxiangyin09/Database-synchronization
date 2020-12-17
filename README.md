@@ -2,6 +2,8 @@
 
 ![PyPI - Wheel](https://img.shields.io/pypi/wheel/yes)![PyPI - Implementation](https://img.shields.io/pypi/implementation/cpython)![AUR license](https://img.shields.io/aur/license/mysql)![PyPI - Downloads](https://img.shields.io/pypi/dw/0.0.1)![PyPI](https://img.shields.io/pypi/v/v9)![AUR license](https://img.shields.io/aur/license/mysql)
 
+[博客地址](https://www.cnblogs.com/chancey/p/12327056.html)
+
 ## 一、简单介绍
 
 本项目全程python，目前可以同步两台mysql之间的数据库，需要指定表，该脚本会长期维护，欢迎提交评论以及修改建议。
@@ -52,7 +54,7 @@
 	sleep: 20
 	```
 	
-2. 打开`init/init.py`文件，尽量使用`vim`打开，避免出现不必要的编码问题，只需要配置`################## 程序配置 ##################`的部分
+2. 打开`init/init.py`文件，尽量使用`vim`打开，避免出现不必要的编码问题，只需要配置`程序配置`的部分
 
    - `serverConfig`为列表，请注意中英文的切换，注意格式，其中有两台服务器的设置
 
@@ -106,3 +108,4 @@ kill -9 上边查出来的pid号
 ```
 
 # 六、觉得好用请给个star
+[博客地址](https://www.cnblogs.com/chancey/p/12327056.html)
